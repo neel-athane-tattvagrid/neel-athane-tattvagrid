@@ -4,7 +4,6 @@ I am the Technical Founder, CTO, and CFO of **Tattva Grid**. I conceptualized an
 
 ### 🛠️ What I'm Building & Architecting:
 * **Enterprise Web Frameworks:** Engineering end-to-end operational software, secure database logistics, and automated backend infrastructure.
-* **Industrial & Systems Automation:** Integrating hardware-software ecosystems (microcontrollers, real-time telemetry, and automated data logging).
 * **Full-Stack Integrations:** Developing streamlined payment flows, custom automated scheduling engines, and real-time client management portals.
 
 ### 📊 Tech Stack:
