@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Neel Athane, Founder & CTO/CFO of Tattva Grid 👋
 
-<!--
-**neel-athane-tattvagrid/neel-athane-tattvagrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the Technical Founder, CTO, and CFO of **Tattva Grid**. I conceptualized and initiated the core vision for the company in January 2026 to build full-stack enterprise automation systems, custom ERP frameworks, and data-driven web solutions for modern businesses.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm Building & Architecting:
+* **Enterprise Web Frameworks:** Engineering end-to-end operational software, secure database logistics, and automated backend infrastructure.
+* **Industrial & Systems Automation:** Integrating hardware-software ecosystems (microcontrollers, real-time telemetry, and automated data logging).
+* **Full-Stack Integrations:** Developing streamlined payment flows, custom automated scheduling engines, and real-time client management portals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Tech Stack:
+`HTML5` | `CSS3` | `JavaScript` | `Google Apps Script & Sheets Cloud Database Architectures` | `AI/ML Custom Workflows`
+
+---
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/neel-athane-tattvagrid)
+                      [Instagram](https://www.instagram.com/athaneneel)
